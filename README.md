@@ -1,4 +1,5 @@
 # 📊 Sales Performance & Agent KPI Dashboard
+![Dashboard Preview](Sales-Dashboard/Dashboard IMG.png at main · TaspiaJannat/Sales-Dashboard)
 
 An interactive and data-driven **Excel Dashboard** designed to analyze sales team performance, call efficiency, and revenue trends. This project provides actionable insights to help businesses track agent productivity and regional sales growth.
 
